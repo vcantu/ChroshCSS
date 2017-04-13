@@ -1,5 +1,6 @@
 @import https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700; /* Import a Google font */
+@import https://fonts.googleapis.com/icon?family=Material+Icons;
 x-screen { /* This is the element which contains the lines */
   font-weight: bold;
-  font-family: "Anonymous Pro", "Roboto Mono", "Noto Mono", monospace !important;
+  font-family: "Material Icons", "Anonymous Pro", "Roboto Mono", "Noto Mono", monospace !important;
 }
